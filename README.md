@@ -39,10 +39,6 @@ To run this website locally, follow these steps:
 1. Clone this repository to your local machine.
 2. Open the `index.html` file in a web browser.
 
-## Authors
-
-This website is created by Cody Johnson.
-
 ## License
 
 This project is licensed under the MIT License.
