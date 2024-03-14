@@ -1,5 +1,7 @@
 # Which Cocktail Website
 
+[Visit the website](https://johnson-cody-cocktaildb.netlify.app/)
+
 This website allows users to search for cocktail recipes based on their input. Users can enter the name of a cocktail, and the website will display the cocktail's name, photo, and instructions fetched from an external API.
 
 ## Features
